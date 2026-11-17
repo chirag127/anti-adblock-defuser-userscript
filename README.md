@@ -6,7 +6,7 @@ Beats "please disable your adblocker" walls without whitelisting the site.
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/anti-adblock-defuser/anti-adblock-defuser.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/anti-adblock-defuser-userscript/main/anti-adblock-defuser.user.js)
 
 ## How it works
 

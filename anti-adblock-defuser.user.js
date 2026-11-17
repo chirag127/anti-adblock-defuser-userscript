@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Anti-Adblock Defuser
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/anti-adblock-defuser-userscript
 // @version      1.0.0
 // @description  Beats adblock detectors: pre-sets the flags blockAdBlock and friends read, fakes an ad slot, then removes "disable your adblocker" overlays and unfreezes the page. ScriptCat switch, on by default.
 // @author       chirag127
@@ -12,10 +12,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/anti-adblock-defuser
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/anti-adblock-defuser/anti-adblock-defuser.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/anti-adblock-defuser/anti-adblock-defuser.user.js
+// @homepageURL  https://github.com/chirag127/anti-adblock-defuser-userscript
+// @supportURL   https://github.com/chirag127/anti-adblock-defuser-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/anti-adblock-defuser-userscript/main/anti-adblock-defuser.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/anti-adblock-defuser-userscript/main/anti-adblock-defuser.user.js
 // ==/UserScript==
 
 (() => {
